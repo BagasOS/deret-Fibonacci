@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author Praktikum
  */
 public class JavaApplication3 {
-
+    // Edited Bagus Ganesa
     /**
      * @param args the command line arguments
      */
